@@ -1,0 +1,5 @@
+https://www.kaggle.com/competitions/spooky-author-identification/data?select=train.zip
+https://github.com/mdimarco/blog_gender_identification/blob/master/data/train.csv
+
+0 = male
+1 = female
