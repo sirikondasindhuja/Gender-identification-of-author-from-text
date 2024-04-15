@@ -1,0 +1,12 @@
+_pycache_
+AuthorDataset
+GenderDataset
+model
+TextDocument
+CustomButton
+DataSetLink
+genderidentification
+Main
+run
+Screens
+test
